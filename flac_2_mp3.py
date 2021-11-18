@@ -63,7 +63,7 @@ for j in range(filename_list_len):
 
 			subprocess.call(['ffmpeg', '-i', input_filename, '-ab', '320k', '-map_metadata', '0', '-id3v2_version', '3', output_filename ])
 			
-			# Confirmation print statment leting user know convertion was made sucessfully
+			# Confirmation print statment letting user know convertion was made sucessfully
 
 			print("flac --> mp3 filetype: converted")
 			print("\n")
