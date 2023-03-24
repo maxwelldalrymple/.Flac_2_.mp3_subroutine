@@ -1,4 +1,4 @@
-# Flac to Mp3 Algorithm with FFmpeg
+# Flac to Mp3 Algorithm (FFmpeg)
 
 FFmpeg is a powerful open-source software that allows you to manipulate video and audio files. This algorithm will use FFmpeg to convert FLAC audio files to MP3 format.
 
