@@ -4,9 +4,7 @@ import os
 import subprocess
 import re
 
-# Current Directory getter $ Can also manually set the directory path as the folder_path directory
-
-folder_path = os.getcwd()
+folder_path = os.getcwd() # set this to a cli input if this file is not in the same folder as the ones you are changing
 
 # Sub Directory listing
 
